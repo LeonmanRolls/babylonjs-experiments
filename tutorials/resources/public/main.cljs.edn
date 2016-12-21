@@ -1,0 +1,3 @@
+{:require  [tutorials.core]
+ :init-fns []
+ :compiler-options {}}
